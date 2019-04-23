@@ -1,16 +1,3 @@
-// Project7.cpp : Defines the entry point for the console application.
-// Author:	   Grant Sowards
-// Assignment:	   project 7
-// File:	   project7.cpp, diagraph.cpp, diagraph.h
-// Instructor:	   Reza Sonati
-// Class:	   CS 2420  Section: 001 
-// Date Written:   06/25/2015 
-// Description:  Dijkstra
-
-// I declare that the source code contained in this assignment was written solely by me.
-// I understand that copying any source code, in whole or in part,
-// constitutes cheating, and that I will receive a zero on this project
-// if I am found in violation of this policy.
 
 #include "stdafx.h"
 #include "diagraph.h"
